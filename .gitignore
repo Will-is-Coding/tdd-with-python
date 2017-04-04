@@ -1,4 +1,9 @@
 db.sqlite3
+
 geckodriver.log
+
 __pychache__
+
 *.pyc
+
+local_settings.py
